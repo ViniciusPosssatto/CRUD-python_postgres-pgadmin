@@ -1,4 +1,4 @@
-# CRUD Banco de dados python
+# CRUD Banco de dados SQL/python
 
 ### Construído um sisteminha para praticar banco de dados utilizando python com database SQL e SGBD postgresql com pgadmin como interface gráfica.
 
